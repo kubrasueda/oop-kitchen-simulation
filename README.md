@@ -20,12 +20,6 @@ This project is a simple object-oriented simulation of a kitchen environment dev
 - `Mutfak` → Manages all items and controls available space
 - `Oda (Main)` → Runs the simulation
 
-## What I Learned
-- Designing systems using object-oriented principles
-- Managing relationships between classes
-- Working with collections (ArrayList)
-- Implementing basic algorithms and validations
-
 ## How to Run
 1. Open the project in NetBeans or any Java IDE
 2. Run the `Oda` class
